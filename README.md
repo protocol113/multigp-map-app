@@ -20,3 +20,34 @@ The target audience for this app is FPV drone racing pilots who are already fami
 
 ### Current Market
 There are currently no apps that provide this specific functionality, making this app unique in the drone racing market.
+
+
+## Technologies Used
+
+### Front-end
+- React Native
+- Redux
+
+### Back-end
+- Node.js
+- Express.js
+
+### Databases
+- MongoDB
+
+### APIs
+- Google Satellite Imagery API
+
+### AI/ML Tools
+- TensorFlow.js
+- Keras
+
+### Other Tools and Libraries
+- React Navigation
+- React Native Maps
+- React Native Image Picker
+- React Native Camera
+- React Native Gesture Handler
+- React Native Reanimated
+- Expo
+- Axios
