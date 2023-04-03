@@ -1,0 +1,23 @@
+- src
+  - components
+    - CourseDesigner.js
+    - ImagePreview.js
+    - TrackList.js
+    - TrackListItem.js
+    - TrackGenerator.js
+  - screens
+    - HomeScreen.js
+    - TrackDetailScreen.js
+    - TrackListScreen.js
+    - TrackGeneratorScreen.js
+  - services
+    - SatelliteImageService.js
+    - TrackService.js
+    - AIModelService.js
+  - App.js
+- assets
+  - images
+    - icons
+    - logos
+- package.json
+- README.md
